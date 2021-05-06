@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @dyfun
+- 👋 Hi, I’m Tayfun Güler
+- Freelance Web App Developer and Electric - Electronic Engineering student
