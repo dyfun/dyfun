@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Tayfun Güler
-- Freelance Web App Developer and Electric - Electronic Engineering student
+- Electric - Electronic Engineering student
