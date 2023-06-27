@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Tayfun Güler
-- Electric - Electronic Engineering student
+- Electric - Electronic Engineer & Software Developer
 - <b>Skills</b>: Php, Javascript, Html/Css, Laravel, Symfony, Reactjs, Nodejs, C, Go
+- I have a <a href="http://tayfunguler.org/blog">blog </a> that contain Turkish writings.
